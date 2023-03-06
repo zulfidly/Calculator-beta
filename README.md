@@ -35,7 +35,7 @@
 ```
 
 #### General studies
-- scaling SVG file properly and respecting its svg containers  (not using <img> tag)
+- scaling SVG file properly and respecting its svg containers  (not using img tag)
 - Map objects vs. normal Objects
 - import of an extension library
 
